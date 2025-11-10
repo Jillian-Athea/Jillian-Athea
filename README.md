@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF6B35&width=900&size=21&center=true&lines=I+am+from+CDO;I+am+an+IT+student" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF6B35&width=900&size=21&center=true&lines=Hey+It's+Jill+<3;I+am+an+IT+student" alt="Typing SVG"/>
 </div>
 
 <br>
